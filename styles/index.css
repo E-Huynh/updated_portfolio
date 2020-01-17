@@ -1,4 +1,13 @@
-/* .column {
-    display: flex;
-    flex-direction: column;
-  } */
+.avatar {
+    margin-top: -70px;
+}
+
+li{
+  list-style: none;
+}
+ul li:before {    
+  font-family: 'FontAwesome';
+  content: "\f00c";
+  margin:0 5px 0 -15px;
+  color: green;
+}
