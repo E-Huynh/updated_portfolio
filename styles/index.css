@@ -2,6 +2,9 @@
     margin-top: -70px;
 }
 
+.content ul {
+  margin-left: 0em;
+}
 li{
   list-style: none;
 }
@@ -35,6 +38,10 @@ ul li:before {
 
 .box  {
   margin-top: 50px;
+}
+
+div .box{
+  height: 100%;
 }
 
 .hero-body h5 {
