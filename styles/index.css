@@ -19,3 +19,11 @@ ul li:before {
 .shrinkImg {
   padding: 10%;
 }
+
+.mobileImg  {
+  padding: 0 31%;
+  background: rgb(145, 145, 145);
+  /* height: unset !important; */
+  /* background-size: contain !important; */
+
+}
