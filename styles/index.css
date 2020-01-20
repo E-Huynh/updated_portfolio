@@ -16,15 +16,49 @@ ul li:before {
   border-radius: 5px;
 }
 
+.about-me {
+  padding-left: 25%;
+}
+
 .shrinkImg {
   padding: 10%;
 }
 
-.projectImg  {
-  border: 2px solid rgb(22, 22, 22);
-}
-
 .mobileImg  {
   padding: 0 31%;
-  background: rgb(145, 145, 145);
+}
+
+.hero-body {
+  max-height: 126px;
+  padding: 15px 0px 0px 0px;
+}
+
+.box  {
+  margin-top: 50px;
+}
+
+.hero-body h5 {
+  margin-bottom: 0;
+}
+
+.radiusStyle {
+  border: 1px solid rgb(145, 145, 145);
+  border-radius: 5px;
+}
+
+.topBorderRadius {
+  border-radius: 5px 5px 0px 0px;
+  border-top: 1px solid rgb(145, 145, 145);
+  border-left: 1px solid rgb(145, 145, 145);
+  border-right: 1px solid rgb(145, 145, 145);
+}
+.bottomBorderRadius {
+  border-radius: 0px 0px 5px 5px;
+  border: 1px solid rgb(145, 145, 145);
+}
+
+@media only screen and (max-width: 768px) {
+  .about-me {
+    padding-left: 0%;
+  }
 }
