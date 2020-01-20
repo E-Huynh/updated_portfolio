@@ -20,10 +20,11 @@ ul li:before {
   padding: 10%;
 }
 
+.projectImg  {
+  border: 2px solid rgb(22, 22, 22);
+}
+
 .mobileImg  {
   padding: 0 31%;
   background: rgb(145, 145, 145);
-  /* height: unset !important; */
-  /* background-size: contain !important; */
-
 }
