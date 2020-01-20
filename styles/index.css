@@ -11,3 +11,11 @@ ul li:before {
   margin:0 5px 0 -15px;
   color: green;
 }
+.mini-img {
+  background-color: rgb(235, 235, 235);
+  border-radius: 5px;
+}
+
+.shrinkImg {
+  padding: 10%;
+}
