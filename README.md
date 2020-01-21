@@ -1,7 +1,7 @@
 # Erik Huynh's Portfolio
----
+
 ## [Link](https://e-huynh.github.io/updated_portfolio/)
----
+
 ## Story
 Something about needing a portfolio to be employer competitive.
 ---
