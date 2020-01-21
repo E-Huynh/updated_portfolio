@@ -45,6 +45,9 @@ div .box{
   height: 100%;
 }
 
+.projectColumn {
+  display: flex;
+}
 
 .hero-body h5 {
   margin-bottom: 0;
@@ -55,15 +58,8 @@ div .box{
   border-radius: 5px;
 }
 
-.topBorderRadius {
-  border-radius: 5px 5px 0px 0px;
-  border-top: 1px solid rgb(145, 145, 145);
-  border-left: 1px solid rgb(145, 145, 145);
-  border-right: 1px solid rgb(145, 145, 145);
-}
-.bottomBorderRadius {
-  border-radius: 0px 0px 5px 5px;
-  border: 1px solid rgb(145, 145, 145);
+.projectImg {
+  border-bottom: 1px solid rgb(145, 145, 145);
 }
 
 @media only screen and (max-width: 768px) {
