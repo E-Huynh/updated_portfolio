@@ -2,6 +2,7 @@
 
 ###
 [Portfolio link](https://e-huynh.github.io/updated_portfolio/)
+[Newer portforlio link](https://e-huynh.github.io/portfolio-gram/)
 
 ### Story
 ---
